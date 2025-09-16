@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class Bai4 {
+
     public static void main(String[] args) {
         try (java.util.Scanner scanner = new Scanner(System.in)) {
             System.out.print("Nhap so tien gui (VND): ");
